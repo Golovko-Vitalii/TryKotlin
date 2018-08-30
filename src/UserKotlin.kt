@@ -1,0 +1,1 @@
+class UserKotlin(val email1:String, var email2: String)
